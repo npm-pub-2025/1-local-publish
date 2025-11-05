@@ -28,11 +28,10 @@ actions* on your account. You must also ensure this box is checked.
 
 As with publish from CI, the goal here is to automate the workflow so you don't need to remember everything to do in
 each step. With this in mind, all the steps of the release workflow are in `package.json` scripts. To run this workflow
-you can do either of the following:
+you can do the following:
 
 ```bash
 $ npm run release [version] [tag]
-$ node --run release [version] [tag]
 ```
 
 This example workflow will do the following in order:
