@@ -82,4 +82,4 @@ In this example we made some decisions that are purely illustrative of personal 
 
 ## Next Example
 
-For CI-based publishing, see the companion guide: **[Publishing from CI](https://github.com/npm-pub-2025/ci-publish)**
+If you are new to npm publishing, working on a single project, or working alone on your project we recommend using a local publish workflow like this. If you are working with a team and looking for a way to allow for CI publishing, see the companion guide: **[Publishing from CI](https://github.com/npm-pub-2025/ci-publish)**
